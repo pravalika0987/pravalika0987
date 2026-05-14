@@ -26,10 +26,15 @@ business insights across healthcare and e-commerce domains.
 ---
 
 ## 📂 Projects
-| Project | Tools | Description |
-|---|---|---|
-| [Diabetic Readmission Prediction](#) | Python, ML, Power BI, SQL | Predicted 30-day hospital readmission on 100K+ records |
-| [E-Commerce Sales Analytics](#) | Python, Power BI, SQL | KPI dashboards from 8 relational datasets |
+## 📁 Projects
+
+### 🛒 E-Commerce Sales Analytics
+- ML pipeline on 100K+ Olist records
+- [View Repo](https://github.com/pravalika0987/ecommerce-sales-analytics)
+
+### 🏥 Diabetic Readmission Prediction
+- Predict 30-day hospital readmission using ML
+- [View Repo](https://github.com/pravalika0987/diabetic-readmission-prediction)
 
 ---
 
