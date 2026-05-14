@@ -43,4 +43,6 @@ business insights across healthcare and e-commerce domains.
 
 ## 📊 GitHub Stats
 
-![Pravalika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravalika0987&show_icons=true&theme=default&hide_border=true)
+![Pravalika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravalika0987&show_icons=true&theme=github_dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravalika0987&layout=compact)
