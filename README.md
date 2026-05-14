@@ -41,5 +41,6 @@ business insights across healthcare and e-commerce domains.
 ## 📜 Certifications
 - IBM Data Science Professional Certificate — Coursera 2025
 
----
-![Pravalika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravalika0987&show_icons=true&theme=default)
+## 📊 GitHub Stats
+
+![Pravalika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravalika0987&show_icons=true&theme=default&hide_border=true)
