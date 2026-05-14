@@ -1,4 +1,4 @@
-# Hi, I'm Pravalika 👋
+# Hi, I'm Pravalika  Mareddy👋
 
 **Data Analyst | Python | SQL | Power BI**
 
