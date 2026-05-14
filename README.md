@@ -45,6 +45,6 @@ business insights across healthcare and e-commerce domains.
 
 🔭 Currently working on Data Analytics projects  
 🌱 Learning Machine Learning and Data Engineering  
-💬 Ask me about Python, SQL, Power BI  
+💬 Ask me about Python and Libraries, SQL, Power BI  
 📫 Reach me at pravalikamareddy@gmail.com  
 📍 Hyderabad, India
