@@ -25,7 +25,7 @@ business insights across healthcare and e-commerce domains.
 
 ---
 
-## 📂 Projects
+
 ## 📁 Projects
 
 ### 🛒 E-Commerce Sales Analytics
