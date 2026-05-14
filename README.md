@@ -41,6 +41,10 @@ business insights across healthcare and e-commerce domains.
 ## 📜 Certifications
 - IBM Data Science Professional Certificate — Coursera 2025
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Pravalika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravalika0987&show_icons=true&theme=default&cache_seconds=1800)
+🔭 Currently working on Data Analytics projects  
+🌱 Learning Machine Learning and Data Engineering  
+💬 Ask me about Python, SQL, Power BI  
+📫 Reach me at pravalikamareddy@gmail.com  
+📍 Hyderabad, India
